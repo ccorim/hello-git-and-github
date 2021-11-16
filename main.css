@@ -1,4 +1,21 @@
-html{
-    background-color: rgb(17, 11, 20);
-    font-family: Inter;
+body
+{
+    background-color: rgb(145, 118, 194);
+    font-family: Inter, sans-serif;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+.box 
+{
+    color: rgb(12, 14, 15);
+    box-sizing: content-box ;
+    height: 50px;
+    width: 500px;
+    background-color: rgb(88, 195, 214);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
